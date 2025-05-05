@@ -1,6 +1,6 @@
 //========================================================================================================================//
 //                                                 用户自定义宏定义                            d:\biyelunwen\毕业论文\龙\Chinese-version\src\MPU6050\MPU6050.h                     //                                                                 
-//===================================================d:\biyelunwen\毕业论文\龙\Chinese-version\src\SBUS\SBUS.cpp=====================================================================//
+//===================================================
 
 // 接收机配置
 #define USE_SBUS_RX  // 使用S.Bus接收机协议
@@ -11,7 +11,7 @@
 // 陀螺仪满量程范围（度/秒）
 #define GYRO_250DPS  // 选择250度/秒量程
 
-// 加速度计满量程范围（G值） c:\Users\1\Desktop\111swashplateless_helicopter-main\swashplateless_helicopter-main\code\v2\Chinese-version\src\MPU6050\MPU6050.h
+// 加速度计满量程范围（G值） 
 #define ACCEL_2G  // 选择2G量程
 
 
